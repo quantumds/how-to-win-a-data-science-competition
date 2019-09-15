@@ -1,1 +1,3 @@
-# how_to_win_a_data_science_competition
+# How to Win a Data Science Competition
+
+Coursera
